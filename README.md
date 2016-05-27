@@ -8,7 +8,7 @@ The accompanying paper is here:
 http://www.lrec-conf.org/proceedings/lrec2016/summaries/1209.html
 
 Please cite if you use the LR:
-
+```
 Bibtex	@InProceedings{FRAIN16.1209,
   author = {Alice Frain and Sander Wubben},
   title = {SatiricLR: a Language Resource of Satirical News Articles},
@@ -23,3 +23,4 @@ Bibtex	@InProceedings{FRAIN16.1209,
   isbn = {978-2-9517408-9-1},
   language = {english}
  }
+```
